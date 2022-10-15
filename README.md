@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+This is my first exercise with the Odin project, and it has been very cool to learn in this way. I tried many webdev courses and I find that direcltly working with git is waaay more real and fun than going straight to html css. 
